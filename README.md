@@ -4,4 +4,5 @@ the repository named "career" is used to record information related software sco
 how to creat a new respository?
 how to creat a new branch?
 how to make a commit?
+how to make a "pull request"!
 ... ...
